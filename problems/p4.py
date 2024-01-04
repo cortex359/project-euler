@@ -1,6 +1,6 @@
-# Largest Palindrome Product
+# Problem 4: Largest Palindrome Product
+# -------------------------------------
 import itertools
-
 
 def is_palindrome(n: int) -> bool:
     n_str: str = str(n)

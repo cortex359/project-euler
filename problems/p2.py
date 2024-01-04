@@ -1,4 +1,5 @@
-
+# Problem 2: Even Fibonacci Numbers
+# ---------------------------------
 fibonacci_numbers: list[int] = [1, 2]
 number = 2
 while number < 4_000_000:
